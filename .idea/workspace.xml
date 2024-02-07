@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c7ce1f3-8813-45f8-bace-c02a5ad79a54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenT4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c7ce1f3-8813-45f8-bace-c02a5ad79a54" name="Changes" comment="ExameT4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +44,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707294502132</updated>
-      <workItem from="1707294503152" duration="620000" />
+      <workItem from="1707294503152" duration="1303000" />
     </task>
+    <task id="LOCAL-00001" summary="ExameT4">
+      <option name="closed" value="true" />
+      <created>1707295217064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707295217064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +70,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ExameT4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExameT4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
